@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kafir4
+- 👀 I am interested in projects for Windows 11
+- 🌱 I am currently learning how to tune and automate routine tasks
+- 💞️ I want to cooperate in testing new projects
+- 📫 How to contact me: kafir4@gmail.com
